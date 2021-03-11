@@ -25,3 +25,8 @@ finish new branch
 
 merge merge
 resolve conflict 2 feature branch 
+<<<<<<< Updated upstream
+=======
+song tag
+aaaaaaasss
+>>>>>>> Stashed changes
